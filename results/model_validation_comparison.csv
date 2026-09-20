@@ -1,0 +1,7 @@
+Model,Validation Accuracy
+CNN Baseline,0.4522
+ResNet50 Frozen,0.4923
+ResNet50 Fine-Tuned,0.595
+EfficientNet-B0 Frozen,0.4886
+EfficientNet-B0 Fine-Tuned,0.5031
+Weighted ResNet50,0.5825403392635499

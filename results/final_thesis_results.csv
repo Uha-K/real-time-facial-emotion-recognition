@@ -1,0 +1,9 @@
+Experiment,Evaluation_Set,Accuracy,Macro_F1
+CNN Baseline,AffectNet Validation,0.4522,
+ResNet50 Frozen,AffectNet Validation,0.4923,
+ResNet50 Fine-Tuned,AffectNet Validation,0.595,
+EfficientNet-B0 Frozen,AffectNet Validation,0.4886,
+EfficientNet-B0 Fine-Tuned,AffectNet Validation,0.5031,
+Weighted ResNet50 - AffectNet,AffectNet Test,0.5942,0.5517
+Weighted ResNet50 - AffectNet Grayscale,AffectNet Test,0.4442,0.4097
+Weighted ResNet50 - FERPlus,FERPlus PrivateTest,0.0923,0.0725
