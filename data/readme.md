@@ -39,3 +39,7 @@ The fixed class order used throughout the project is:
 
 Users should obtain the datasets from their respective original sources and
 comply with their licensing and usage requirements.
+
+Primary DataSet : https://www.kaggle.com/datasets/mstjebashazida/affectnet
+
+External Evaluated DataSet : https://github.com/microsoft/FERPlus
