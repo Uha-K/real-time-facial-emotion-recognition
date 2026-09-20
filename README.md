@@ -554,14 +554,6 @@ real-time-facial-emotion-recognition/
 │   ├── 04_External_Generalization_Explainability.ipynb
 │   └── 05_RealTime_Final_Results.ipynb
 │
-├── 🧠 src/
-│   ├── dataset.py
-│   ├── models.py
-│   ├── training.py
-│   ├── evaluation.py
-│   ├── gradcam.py
-│   └── utils.py
-│
 ├── 📹 realtime/
 │   ├── realtime_emotion_recognition.py
 │   └── README.md
@@ -575,7 +567,6 @@ real-time-facial-emotion-recognition/
 │
 ├── 🖼️ figures/
 ├── 💾 models/
-├── 📚 docs/
 └── 🗂️ data/
 ```
 
