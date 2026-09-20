@@ -600,7 +600,7 @@ Together, the notebooks form the complete experimental workflow used in the diss
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/real-time-facial-emotion-recognition.git
+git clone https://github.com/Uha-K/real-time-facial-emotion-recognition.git
 cd real-time-facial-emotion-recognition
 ```
 
@@ -743,7 +743,7 @@ A Comparative and Cross-Domain Evaluation**
 
 Master's Dissertation  
 MSc Data Science / Artificial Intelligence  
-**[Your University]**
+**[GISMA UNIVERSITY OF APPLIED SCIENCE]**
 
 The dissertation presents the complete methodology, literature review, experimental analysis, discussion, limitations and interpretation of the results contained in this repository.
 
@@ -751,22 +751,21 @@ The dissertation presents the complete methodology, literature review, experimen
 
 # ✍️ Author
 
-**[Your Name]**
+**[KUNAPALLI UHA]**
 
 MSc Data Science / Artificial Intelligence  
-[University Name]
+[GISMA UNIVERSITY OF APPLIED SCIENCE]
 
 ---
 
 # 📖 Citation
 
-If you use this repository or associated work in academic research, please cite:
 
 ```text
-[Your Surname], [Initial]. ([Year]).
+[Kunapalli], [Uha]. ([2026]).
 Real-Time Facial Emotion Recognition Using Deep Learning:
 A Comparative and Cross-Domain Evaluation.
-Master's Dissertation, [University Name].
+Master's Dissertation, [Gisma University Of Applied Science].
 ```
 
 ---
